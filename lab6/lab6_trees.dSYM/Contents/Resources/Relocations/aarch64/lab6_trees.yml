@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/daniil/Documents/dsa_course_year_one/lab6/lab6_trees'
+relocations:     []
+...
